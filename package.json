@@ -1,0 +1,24 @@
+{
+  "name": "fe-zetsy-onl01-seng-pt-100619",
+  "version": "1.0.0",
+  "description": "## Objectives",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server --port 10001",
+    "start": "npm run lite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chalpenny/fe-zetsy-onl01-seng-pt-100619.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^1.3.1"
+  },
+  "bugs": {
+    "url": "https://github.com/chalpenny/fe-zetsy-onl01-seng-pt-100619/issues"
+  },
+  "homepage": "https://github.com/chalpenny/fe-zetsy-onl01-seng-pt-100619#readme"
+}
